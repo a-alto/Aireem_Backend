@@ -1,0 +1,50 @@
+.under-navbar-body
+{
+    padding-top:70px;
+}
+
+html
+{
+  position: relative;
+  min-height: 100%;
+}
+
+body
+{
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 70px;
+  background-color: #e8e8e8;
+}
+
+.aireem-navbar
+{
+    background-color: #11a569;
+    border-color: #118a59;
+}
+
+.aireem-brand
+{
+    color:#f2f2f2;
+}
+
+.aireem-brand:hover
+{
+    color:#ffffff;
+}
+
+.aireem-nav-link
+{
+    color:#f2f2f2;
+}
+
+.aireem-nav-link:hover
+{
+    color:#ffffff;
+}

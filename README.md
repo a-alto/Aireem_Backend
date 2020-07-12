@@ -31,4 +31,4 @@ You can visit the web-application by clicking the link below:
 a look of the documentation.
 
 ### Documentation
-You can find the project documentation here: [Aireem doc](#)
+You can find the project documentation here: [Aireem doc](https://github.com/a-alto/Aireem_Backend/blob/master/Relazione/Aireem%20-%20Relazione.pdf)
